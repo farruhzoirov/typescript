@@ -10,3 +10,4 @@
 let favouriteActivities: string[];
 favouriteActivities = ['Sports'];
 
+let arr : string[] = ['Sports'];
